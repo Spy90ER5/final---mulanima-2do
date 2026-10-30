@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02af11d85fef84468ed49a34e268df1, type: 3}
+  m_Name: FPCamSettingsInvertedY
+  m_EditorClassIdentifier: 
+  Name: Inverted Y
+  SettingsKey: FPCam.InvertedY
+  UIPrefab: {fileID: 4173513169116495977, guid: cad14d3bc9bef4d43884516ed4bc0a42, type: 3}
+  Initialization: 0

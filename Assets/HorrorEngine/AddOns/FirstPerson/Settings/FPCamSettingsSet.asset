@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e79fb35c448f874bb429ccc412ca81e, type: 3}
+  m_Name: FPCamSettingsSet
+  m_EditorClassIdentifier: 
+  Elements:
+  - {fileID: 11400000, guid: f8b620f37d1e10f43a2c7a4fcf7f7495, type: 2}
+  - {fileID: 11400000, guid: c8b6c7a1e5d87414eae5ee09df0ecb90, type: 2}
+  - {fileID: 11400000, guid: 640f97ad81cac454b964129ec7b7aa63, type: 2}

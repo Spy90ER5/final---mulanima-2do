@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2500842d751b590448dddff9bc2b5189, type: 3}
+  m_Name: HECoreFirstPerson
+  m_EditorClassIdentifier: 
+  m_Prototype: {fileID: 11400000, guid: b91238578c4a8c54da94d789e9fdc377, type: 2}
+  m_GameManager: {fileID: 4572943318915776241, guid: 3a9267dc844cdc34e9d8bb687a0d47cc, type: 3}
+  m_CameraSystem: {fileID: 0}
+  m_CustomObjects:
+  - {fileID: 9750379786358985, guid: 119a1d6feb3be314f904dd8a76f7f3ca, type: 3}
+  m_Inventory: {fileID: 0}
+  m_Document: {fileID: 0}
+  m_DocumentList: {fileID: 0}
+  m_Dialog: {fileID: 0}
+  m_Choices: {fileID: 0}
+  m_SaveGame: {fileID: 0}
+  m_Item: {fileID: 0}
+  m_ItemContainer: {fileID: 0}
+  m_ExamineItem: {fileID: 0}
+  m_ExamineItemRenderer: {fileID: 0}
+  m_Pause: {fileID: 0}
+  m_Map: {fileID: 0}
+  m_MapRenderer: {fileID: 0}
+  m_GameOver: {fileID: 0}
+  m_CinematicPlayer: {fileID: 0}
+  m_InteractionPrompt: {fileID: 7139097151342086716, guid: fc476d8f7b0f8e540884e969c1560123, type: 3}
+  m_Fade: {fileID: 0}
+  m_LetterBox: {fileID: 0}
+  m_CustomUI: []
