@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a543205dd590b764295581a5ae2883d4, type: 3}
+  m_Name: Diario de la tia
+  m_EditorClassIdentifier: 
+  UniqueId: 56aa68ac-25da-41b2-a6fa-54031f30a20d
+  Name:
+    IsLocalized: 0
+    Unlocalized: Diario de la tia
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Image:
+    IsLocalized: 0
+    Unlocalized: {fileID: 21300000, guid: 4d477f12d92eba042acbe5e06a3f3cff, type: 3}
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  Name_DEPRECATED: 
+  Image_DEPRECATED: {fileID: 0}
+  ShowImageOnRead: 1
+  ShowPageCount: 1
+  Pages:
+  - Text:
+      IsLocalized: 0
+      Unlocalized: "Lamento no tener un mejor v\xEDnculo con mi familia, ojala algun
+        dia pueda estar m\xE1s unidos con ellos."
+      Localized:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    Image:
+      IsLocalized: 0
+      Unlocalized: {fileID: 0}
+      Localized:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+    Caption:
+      IsLocalized: 0
+      Unlocalized: 
+      Localized:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    Text_DEPRECATED: 
+    Image_DEPRECATED: {fileID: 0}
+    Caption_DEPRECATED: 
+    ChangeImageColor: 0
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+  ShowClip: {fileID: 8300000, guid: 064693e7a6127fa448408ad9424c5081, type: 3}
+  PageClip: {fileID: 8300000, guid: 064693e7a6127fa448408ad9424c5081, type: 3}
+  CloseClip: {fileID: 8300000, guid: 757a425d6607890488ecd0baca7d3aad, type: 3}
+  references:
+    version: 2
+    RefIds: []

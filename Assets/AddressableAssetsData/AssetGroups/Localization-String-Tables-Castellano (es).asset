@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Castellano (es)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Castellano (es)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1ca61440d605ac049add0a579d9b1da8
+  m_SerializeEntries:
+  - m_GUID: 977d207924dd78f46b733a4f66ee86bc
+    m_Address: HorrorEngineGame_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b3e3d567eeab60a49a5f116e9249a0f2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 14db96ecad81a9c4a878b5991294bbe0, type: 2}
+    - {fileID: 11400000, guid: b66f46a60e2e7144fb427c304c82775d, type: 2}

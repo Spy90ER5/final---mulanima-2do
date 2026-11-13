@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Llave1
   m_EditorClassIdentifier: 
   UniqueId: f19dbbd1-4219-4dd9-bbf6-c952ee512701
-  Image: {fileID: 21300000, guid: 7287f58a855a8f341be10ebb9a9abd4d, type: 3}
-  ExamineModel: {fileID: 3834099917732582787, guid: 2f19781f6e1beb440bb53459190caccd, type: 3}
+  Image: {fileID: 21300000, guid: fdcb254f0d3c79e45943f702559f9f0b, type: 3}
+  ExamineModel: {fileID: 42335214512033538, guid: fdb7fcebfb29e6d4f993588b6c476f64, type: 3}
   Name:
     IsLocalized: 0
-    Unlocalized: Llave 1
+    Unlocalized: Llave de Punto
     Localized:
       m_TableReference:
         m_TableCollectionName: 
@@ -29,7 +29,7 @@ MonoBehaviour:
       m_LocalVariables: []
   Description:
     IsLocalized: 0
-    Unlocalized: La llave 1
+    Unlocalized: Deberia probarla en una de esas cerraduras del sotano.
     Localized:
       m_TableReference:
         m_TableCollectionName: 
@@ -40,7 +40,7 @@ MonoBehaviour:
       m_WaitForCompletion: 0
       m_LocalVariables: []
   InventoryAction: 1
-  Flags: 16
+  Flags: 0
   DropPrefab: {fileID: 0}
   MaxStackSize: 0
   m_OnUseAudioClip: {fileID: 0}

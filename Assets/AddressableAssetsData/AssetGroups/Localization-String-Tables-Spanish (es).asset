@@ -29,12 +29,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-es
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 977d207924dd78f46b733a4f66ee86bc
-    m_Address: HorrorEngineGame_es
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-es
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: b3e3d567eeab60a49a5f116e9249a0f2, type: 2}
   m_SchemaSet:

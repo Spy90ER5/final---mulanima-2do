@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Llave3
   m_EditorClassIdentifier: 
   UniqueId: a70fa268-8095-4e9d-9d09-02e0468f52d0
-  Image: {fileID: 21300000, guid: 7287f58a855a8f341be10ebb9a9abd4d, type: 3}
+  Image: {fileID: 21300000, guid: 24bde08b17cd4cb41b915055be70353b, type: 3}
   ExamineModel: {fileID: 3231717572638813147, guid: dc0ba9a5f2fa7084a8cc3510fbd5ecec, type: 3}
   Name:
     IsLocalized: 0
-    Unlocalized: Llave3
+    Unlocalized: Llave Larga
     Localized:
       m_TableReference:
         m_TableCollectionName: 
@@ -40,7 +40,7 @@ MonoBehaviour:
       m_WaitForCompletion: 0
       m_LocalVariables: []
   InventoryAction: 1
-  Flags: 16
+  Flags: 0
   DropPrefab: {fileID: 0}
   MaxStackSize: 0
   m_OnUseAudioClip: {fileID: 0}

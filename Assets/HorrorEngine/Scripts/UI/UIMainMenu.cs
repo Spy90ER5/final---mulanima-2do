@@ -2,6 +2,10 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+using System.Collections;
+
+
 
 #if UNITY_EDITOR
 using UnityEditor;
@@ -68,9 +72,15 @@ namespace HorrorEngine
 
             ObjectStateManager.Instance.ClearStates();
 
-            OnNewGame?.Invoke();
+            //OnNewGame?.Invoke();
+            //SceneManager.LoadScene("Mulanima");
+            StartCoroutine(WaitAndLoadScene("Mulanima", 1.6f));
         }
-
+        private IEnumerator WaitAndLoadScene(string scene, float time)
+        {
+            yield return new WaitForSeconds(time);
+            SceneManager.LoadScene(scene);
+        }
         // --------------------------------------------------------------------
 
         public void LoadGame()

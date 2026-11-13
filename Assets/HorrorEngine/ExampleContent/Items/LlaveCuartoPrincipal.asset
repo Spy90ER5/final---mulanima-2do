@@ -40,7 +40,7 @@ MonoBehaviour:
       m_WaitForCompletion: 0
       m_LocalVariables: []
   InventoryAction: 1
-  Flags: 16
+  Flags: 0
   DropPrefab: {fileID: 0}
   MaxStackSize: 0
   m_OnUseAudioClip: {fileID: 0}
