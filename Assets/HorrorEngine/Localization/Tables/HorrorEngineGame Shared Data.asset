@@ -107,6 +107,10 @@ MonoBehaviour:
     m_Key: StatusPoisoned
     m_Metadata:
       m_Items: []
+  - m_Id: 239499704511414272
+    m_Key: ButtonNewGame
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

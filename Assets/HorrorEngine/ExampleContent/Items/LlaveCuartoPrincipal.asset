@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: LlaveCuartoPrincipal
   m_EditorClassIdentifier: 
   UniqueId: 6cb1fb9f-4932-4add-a525-bd9f1cd819b6
-  Image: {fileID: 21300000, guid: 7287f58a855a8f341be10ebb9a9abd4d, type: 3}
+  Image: {fileID: 21300000, guid: 09eeca011c34e484fb51822b149cda8e, type: 3}
   ExamineModel: {fileID: 3231717572638813147, guid: dc0ba9a5f2fa7084a8cc3510fbd5ecec, type: 3}
   Name:
     IsLocalized: 0
@@ -29,7 +29,7 @@ MonoBehaviour:
       m_LocalVariables: []
   Description:
     IsLocalized: 0
-    Unlocalized: fgdfdfdfdgdfgfd
+    Unlocalized: De uno de los dormitorios de arriba.
     Localized:
       m_TableReference:
         m_TableCollectionName: 

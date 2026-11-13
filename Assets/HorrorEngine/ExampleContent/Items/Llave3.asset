@@ -29,7 +29,7 @@ MonoBehaviour:
       m_LocalVariables: []
   Description:
     IsLocalized: 0
-    Unlocalized: La llave 3
+    Unlocalized: Una de las llaves que abre la puerta del sotano.
     Localized:
       m_TableReference:
         m_TableCollectionName: 

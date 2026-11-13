@@ -40,11 +40,7 @@ MonoBehaviour:
   Prefab: {fileID: 7944178748222491672, guid: 8dee76552f9fbf047a9251e670d82fde, type: 3}
   Portrait: {fileID: 0}
   InitialInventorySize: 4
-  InitialInventory:
-  - Item: {fileID: 11400000, guid: 6502a202f230d7547b8b4ade1ce80eac, type: 2}
-    Count: 1
-    SecondaryCount: 2
-    Status: 0
+  InitialInventory: []
   InitialStorageBox:
     Label:
       IsLocalized: 0
